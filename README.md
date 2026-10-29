@@ -1,4 +1,4 @@
-# ICS-Quadratic-Grader2-Kanyama-David
+# quadratic-solver-and-grader 
 ## Project Description
 This project, developed for the ICT251 JS GitHub Activity, is a single-file web application (Index.html) that implements two JavaScript-driven tools: a *Quadratic Equation Solver* and a *Grading System* calculator. The page runs entirely offline.
 
